@@ -1,0 +1,9 @@
+1. git init - Initialize a new local repository
+2. git clone - Clone an existing repository - git clone <source>
+3. git add - Add one or more files to staging area
+4. git commit - Comming changes to head
+5. git status - Gives necessary information about the current branch
+6. git push - Uploads commits to the repository.
+7. git remote add origin <server> Connect local repo with remote
+8. git checkout -b <branch_name> - Create a new branch and switch to it.
+9. git checkout <branch_name> - Switch from one branch to another branch.
